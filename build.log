@@ -1,0 +1,16 @@
+main.cpp:2:10: fatal error: sftp_uploader.h: No such file or directory
+    2 | #include "sftp_uploader.h"
+      |          ^~~~~~~~~~~~~~~~~
+compilation terminated.
+cc1plus.exe: fatal error: files_view.cpp: No such file or directory
+compilation terminated.
+cc1plus.exe: fatal error: uploader.cpp: No such file or directory
+compilation terminated.
+.\libs\imgui\imgui_widgets.cpp:8027:10: fatal error: gui/utils.h: No such file or directory
+ 8027 | #include "gui/utils.h"
+      |          ^~~~~~~~~~~~~
+compilation terminated.
+cc1plus.exe: fatal error: .\libs\imgui\backend\imgui_impl_opengl3.cpp: No such file or directory
+compilation terminated.
+cc1plus.exe: fatal error: .\libs\imgui\backend\imgui_impl_sdl.cpp: No such file or directory
+compilation terminated.

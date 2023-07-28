@@ -1,0 +1,800 @@
+[submodule "system"]
+	path = libs/boost/system
+	url = https://github.com/boostorg/system.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "multi_array"]
+	path = libs/boost/multi_array
+	url = https://github.com/boostorg/multi_array.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "math"]
+	path = libs/boost/math
+	url = https://github.com/boostorg/math.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "smart_ptr"]
+	path = libs/boost/smart_ptr
+	url = https://github.com/boostorg/smart_ptr.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "parameter"]
+	path = libs/boost/parameter
+	url = https://github.com/boostorg/parameter.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "algorithm"]
+	path = libs/boost/algorithm
+	url = https://github.com/boostorg/algorithm.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "any"]
+	path = libs/boost/any
+	url = https://github.com/boostorg/any.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "concept_check"]
+	path = libs/boost/concept_check
+	url = https://github.com/boostorg/concept_check.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "python"]
+	path = libs/boost/python
+	url = https://github.com/boostorg/python.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "tti"]
+	path = libs/boost/tti
+	url = https://github.com/boostorg/tti.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "functional"]
+	path = libs/boost/functional
+	url = https://github.com/boostorg/functional.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "config"]
+	path = libs/boost/config
+	url = https://github.com/boostorg/config.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "log"]
+	path = libs/boost/log
+	url = https://github.com/boostorg/log.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "interprocess"]
+	path = libs/boost/interprocess
+	url = https://github.com/boostorg/interprocess.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "exception"]
+	path = libs/boost/exception
+	url = https://github.com/boostorg/exception.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "foreach"]
+	path = libs/boost/foreach
+	url = https://github.com/boostorg/foreach.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "spirit"]
+	path = libs/boost/spirit
+	url = https://github.com/boostorg/spirit.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "io"]
+	path = libs/boost/io
+	url = https://github.com/boostorg/io.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "units"]
+	path = libs/boost/units
+	url = https://github.com/boostorg/units.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "preprocessor"]
+	path = libs/boost/preprocessor
+	url = https://github.com/boostorg/preprocessor.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "format"]
+	path = libs/boost/format
+	url = https://github.com/boostorg/format.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "xpressive"]
+	path = libs/boost/xpressive
+	url = https://github.com/boostorg/xpressive.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "integer"]
+	path = libs/boost/integer
+	url = https://github.com/boostorg/integer.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "thread"]
+	path = libs/boost/thread
+	url = https://github.com/boostorg/thread.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "tokenizer"]
+	path = libs/boost/tokenizer
+	url = https://github.com/boostorg/tokenizer.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "timer"]
+	path = libs/boost/timer
+	url = https://github.com/boostorg/timer.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "inspect"]
+	path = tools/inspect
+	url = https://github.com/boostorg/inspect.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "boostbook"]
+	path = tools/boostbook
+	url = https://github.com/boostorg/boostbook.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "regex"]
+	path = libs/boost/regex
+	url = https://github.com/boostorg/regex.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "crc"]
+	path = libs/boost/crc
+	url = https://github.com/boostorg/crc.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "random"]
+	path = libs/boost/random
+	url = https://github.com/boostorg/random.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "serialization"]
+	path = libs/boost/serialization
+	url = https://github.com/boostorg/serialization.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "test"]
+	path = libs/boost/test
+	url = https://github.com/boostorg/test.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "date_time"]
+	path = libs/boost/date_time
+	url = https://github.com/boostorg/date_time.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "logic"]
+	path = libs/boost/logic
+	url = https://github.com/boostorg/logic.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "graph"]
+	path = libs/boost/graph
+	url = https://github.com/boostorg/graph.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "numeric_conversion"]
+	path = libs/boost/numeric/conversion
+	url = https://github.com/boostorg/numeric_conversion.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "lambda"]
+	path = libs/boost/lambda
+	url = https://github.com/boostorg/lambda.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "mpl"]
+	path = libs/boost/mpl
+	url = https://github.com/boostorg/mpl.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "typeof"]
+	path = libs/boost/typeof
+	url = https://github.com/boostorg/typeof.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "tuple"]
+	path = libs/boost/tuple
+	url = https://github.com/boostorg/tuple.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "utility"]
+	path = libs/boost/utility
+	url = https://github.com/boostorg/utility.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "dynamic_bitset"]
+	path = libs/boost/dynamic_bitset
+	url = https://github.com/boostorg/dynamic_bitset.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "assign"]
+	path = libs/boost/assign
+	url = https://github.com/boostorg/assign.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "filesystem"]
+	path = libs/boost/filesystem
+	url = https://github.com/boostorg/filesystem.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "function"]
+	path = libs/boost/function
+	url = https://github.com/boostorg/function.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "conversion"]
+	path = libs/boost/conversion
+	url = https://github.com/boostorg/conversion.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "optional"]
+	path = libs/boost/optional
+	url = https://github.com/boostorg/optional.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "property_tree"]
+	path = libs/boost/property_tree
+	url = https://github.com/boostorg/property_tree.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "bimap"]
+	path = libs/boost/bimap
+	url = https://github.com/boostorg/bimap.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "variant"]
+	path = libs/boost/variant
+	url = https://github.com/boostorg/variant.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "array"]
+	path = libs/boost/array
+	url = https://github.com/boostorg/array.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "iostreams"]
+	path = libs/boost/iostreams
+	url = https://github.com/boostorg/iostreams.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "multi_index"]
+	path = libs/boost/multi_index
+	url = https://github.com/boostorg/multi_index.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "bcp"]
+	path = tools/bcp
+	url = https://github.com/boostorg/bcp.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "ptr_container"]
+	path = libs/boost/ptr_container
+	url = https://github.com/boostorg/ptr_container.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "statechart"]
+	path = libs/boost/statechart
+	url = https://github.com/boostorg/statechart.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "static_assert"]
+	path = libs/boost/static_assert
+	url = https://github.com/boostorg/static_assert.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "range"]
+	path = libs/boost/range
+	url = https://github.com/boostorg/range.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "rational"]
+	path = libs/boost/rational
+	url = https://github.com/boostorg/rational.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "iterator"]
+	path = libs/boost/iterator
+	url = https://github.com/boostorg/iterator.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "build"]
+	path = tools/build
+	url = https://github.com/boostorg/build.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "quickbook"]
+	path = tools/quickbook
+	url = https://github.com/boostorg/quickbook.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "graph_parallel"]
+	path = libs/boost/graph_parallel
+	url = https://github.com/boostorg/graph_parallel.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "property_map"]
+	path = libs/boost/property_map
+	url = https://github.com/boostorg/property_map.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "program_options"]
+	path = libs/boost/program_options
+	url = https://github.com/boostorg/program_options.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "detail"]
+	path = libs/boost/detail
+	url = https://github.com/boostorg/detail.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "interval"]
+	path = libs/boost/numeric/interval
+	url = https://github.com/boostorg/interval.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "ublas"]
+	path = libs/boost/numeric/ublas
+	url = https://github.com/boostorg/ublas.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "wave"]
+	path = libs/boost/wave
+	url = https://github.com/boostorg/wave.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "type_traits"]
+	path = libs/boost/type_traits
+	url = https://github.com/boostorg/type_traits.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "compatibility"]
+	path = libs/boost/compatibility
+	url = https://github.com/boostorg/compatibility.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "bind"]
+	path = libs/boost/bind
+	url = https://github.com/boostorg/bind.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "pool"]
+	path = libs/boost/pool
+	url = https://github.com/boostorg/pool.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "proto"]
+	path = libs/boost/proto
+	url = https://github.com/boostorg/proto.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "fusion"]
+	path = libs/boost/fusion
+	url = https://github.com/boostorg/fusion.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "function_types"]
+	path = libs/boost/function_types
+	url = https://github.com/boostorg/function_types.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "gil"]
+	path = libs/boost/gil
+	url = https://github.com/boostorg/gil.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "intrusive"]
+	path = libs/boost/intrusive
+	url = https://github.com/boostorg/intrusive.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "asio"]
+	path = libs/boost/asio
+	url = https://github.com/boostorg/asio.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "uuid"]
+	path = libs/boost/uuid
+	url = https://github.com/boostorg/uuid.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "litre"]
+	path = tools/litre
+	url = https://github.com/boostorg/litre.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "circular_buffer"]
+	path = libs/boost/circular_buffer
+	url = https://github.com/boostorg/circular_buffer.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "mpi"]
+	path = libs/boost/mpi
+	url = https://github.com/boostorg/mpi.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "unordered"]
+	path = libs/boost/unordered
+	url = https://github.com/boostorg/unordered.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "signals2"]
+	path = libs/boost/signals2
+	url = https://github.com/boostorg/signals2.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "accumulators"]
+	path = libs/boost/accumulators
+	url = https://github.com/boostorg/accumulators.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "atomic"]
+	path = libs/boost/atomic
+	url = https://github.com/boostorg/atomic.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "scope_exit"]
+	path = libs/boost/scope_exit
+	url = https://github.com/boostorg/scope_exit.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "flyweight"]
+	path = libs/boost/flyweight
+	url = https://github.com/boostorg/flyweight.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "icl"]
+	path = libs/boost/icl
+	url = https://github.com/boostorg/icl.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "predef"]
+	path = libs/boost/predef
+	url = https://github.com/boostorg/predef.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "chrono"]
+	path = libs/boost/chrono
+	url = https://github.com/boostorg/chrono.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "polygon"]
+	path = libs/boost/polygon
+	url = https://github.com/boostorg/polygon.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "msm"]
+	path = libs/boost/msm
+	url = https://github.com/boostorg/msm.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "heap"]
+	path = libs/boost/heap
+	url = https://github.com/boostorg/heap.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "coroutine"]
+	path = libs/boost/coroutine
+	url = https://github.com/boostorg/coroutine.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "coroutine2"]
+	path = libs/boost/coroutine2
+	url = https://github.com/boostorg/coroutine2.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "ratio"]
+	path = libs/boost/ratio
+	url = https://github.com/boostorg/ratio.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "odeint"]
+	path = libs/boost/numeric/odeint
+	url = https://github.com/boostorg/odeint.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "geometry"]
+	path = libs/boost/geometry
+	url = https://github.com/boostorg/geometry.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "phoenix"]
+	path = libs/boost/phoenix
+	url = https://github.com/boostorg/phoenix.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "move"]
+	path = libs/boost/move
+	url = https://github.com/boostorg/move.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "locale"]
+	path = libs/boost/locale
+	url = https://github.com/boostorg/locale.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "auto_index"]
+	path = tools/auto_index
+	url = https://github.com/boostorg/auto_index.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "container"]
+	path = libs/boost/container
+	url = https://github.com/boostorg/container.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "local_function"]
+	path = libs/boost/local_function
+	url = https://github.com/boostorg/local_function.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "context"]
+	path = libs/boost/context
+	url = https://github.com/boostorg/context.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "type_erasure"]
+	path = libs/boost/type_erasure
+	url = https://github.com/boostorg/type_erasure.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "multiprecision"]
+	path = libs/boost/multiprecision
+	url = https://github.com/boostorg/multiprecision.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "lockfree"]
+	path = libs/boost/lockfree
+	url = https://github.com/boostorg/lockfree.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "assert"]
+	path = libs/boost/assert
+	url = https://github.com/boostorg/assert.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "align"]
+	path = libs/boost/align
+	url = https://github.com/boostorg/align.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "type_index"]
+	path = libs/boost/type_index
+	url = https://github.com/boostorg/type_index.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "core"]
+	path = libs/boost/core
+	url = https://github.com/boostorg/core.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "throw_exception"]
+	path = libs/boost/throw_exception
+	url = https://github.com/boostorg/throw_exception.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "winapi"]
+	path = libs/boost/winapi
+	url = https://github.com/boostorg/winapi.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "boostdep"]
+	path = tools/boostdep
+	url = https://github.com/boostorg/boostdep.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "lexical_cast"]
+	path = libs/boost/lexical_cast
+	url = https://github.com/boostorg/lexical_cast.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "sort"]
+	path = libs/boost/sort
+	url = https://github.com/boostorg/sort.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "convert"]
+	path = libs/boost/convert
+	url = https://github.com/boostorg/convert.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "endian"]
+	path = libs/boost/endian
+	url = https://github.com/boostorg/endian.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "vmd"]
+	path = libs/boost/vmd
+	url = https://github.com/boostorg/vmd.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "dll"]
+	path = libs/boost/dll
+	url = https://github.com/boostorg/dll.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "compute"]
+	path = libs/boost/compute
+	url = https://github.com/boostorg/compute.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "hana"]
+	path = libs/boost/hana
+	url = https://github.com/boostorg/hana.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "metaparse"]
+	path = libs/boost/metaparse
+	url = https://github.com/boostorg/metaparse.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "qvm"]
+	path = libs/boost/qvm
+	url = https://github.com/boostorg/qvm.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "fiber"]
+	path = libs/boost/fiber
+	url = https://github.com/boostorg/fiber.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "process"]
+	path = libs/boost/process
+	url = https://github.com/boostorg/process.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "stacktrace"]
+	path = libs/boost/stacktrace
+	url = https://github.com/boostorg/stacktrace.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "poly_collection"]
+	path = libs/boost/poly_collection
+	url = https://github.com/boostorg/poly_collection.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "beast"]
+	path = libs/boost/beast
+	url = https://github.com/boostorg/beast.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "mp11"]
+	path = libs/boost/mp11
+	url = https://github.com/boostorg/mp11.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "callable_traits"]
+	path = libs/boost/callable_traits
+	url = https://github.com/boostorg/callable_traits.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "contract"]
+	path = libs/boost/contract
+	url = https://github.com/boostorg/contract.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "check_build"]
+	path = tools/check_build
+	url = https://github.com/boostorg/check_build.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "container_hash"]
+	path = libs/boost/container_hash
+	url = https://github.com/boostorg/container_hash.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "hof"]
+	path = libs/boost/hof
+	url = https://github.com/boostorg/hof.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "yap"]
+	path = libs/boost/yap
+	url = https://github.com/boostorg/yap.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "safe_numerics"]
+	path = libs/boost/safe_numerics
+	url = https://github.com/boostorg/safe_numerics.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "parameter_python"]
+	path = libs/boost/parameter_python
+	url = https://github.com/boostorg/parameter_python.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "headers"]
+	path = libs/boost/headers
+	url = https://github.com/boostorg/headers.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "boost_install"]
+	path = tools/boost_install
+	url = https://github.com/boostorg/boost_install.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "outcome"]
+	path = libs/boost/outcome
+	url = https://github.com/boostorg/outcome.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "histogram"]
+	path = libs/boost/histogram
+	url = https://github.com/boostorg/histogram.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "variant2"]
+	path = libs/boost/variant2
+	url = https://github.com/boostorg/variant2.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "nowide"]
+	path = libs/boost/nowide
+	url = https://github.com/boostorg/nowide.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "docca"]
+	path = tools/docca
+	url = https://github.com/boostorg/docca.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "cmake"]
+	path = tools/cmake
+	url = https://github.com/boostorg/cmake.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "static_string"]
+	path = libs/boost/static_string
+	url = https://github.com/boostorg/static_string.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "stl_interfaces"]
+	path = libs/boost/stl_interfaces
+	url = https://github.com/boostorg/stl_interfaces.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "more"]
+	path = more
+	url = https://github.com/boostorg/more.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "leaf"]
+	path = libs/boost/leaf
+	url = https://github.com/boostorg/leaf.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "json"]
+	path = libs/boost/json
+	url = https://github.com/boostorg/json.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "pfr"]
+	path = libs/boost/pfr
+	url = https://github.com/boostorg/pfr.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "describe"]
+	path = libs/boost/describe
+	url = https://github.com/boostorg/describe.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "lambda2"]
+	path = libs/boost/lambda2
+	url = https://github.com/boostorg/lambda2.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "property_map_parallel"]
+	path = libs/boost/property_map_parallel
+	url = https://github.com/boostorg/property_map_parallel.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
+[submodule "url"]
+	path = libs/boost/url
+	url = https://github.com/boostorg/url.git
+	fetchRecurseSubmodules = on-demand
+	branch = .
