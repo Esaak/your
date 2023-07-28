@@ -840,7 +840,7 @@ void FileUploader::Archive_Head()
     //auto oldpos = window->DC.CursorPos;
     
     ImGui::TextCentered("Estimated time remaining:");
-    ImGui::SameLine();
+    //ImGui::SameLine();
 
     auto pos = window->DC.CursorPos;
     //pos.y = oldpos.y;
@@ -897,6 +897,8 @@ void FileUploader::Archive_Head()
         }
     }*/
     std::pair<const char*, float> load_progress = GetLoadProgress();
+    ImGui::TextCentered(std::to_string(_update_cur_file_sent_value));
+    ImGui::TextCentered(_update_cur_file_sent_name);
     ImGui::ProgressBar(load_progress.second, ImVec2(400, 30), load_progress.first);
 }
 
